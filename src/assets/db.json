@@ -1,0 +1,25 @@
+{
+  "blog": [
+    {
+      "username": "Captain America",
+      "id": 2,
+      "title": "Pizza",
+      "date": "11-May-2021",
+      "blog": "I love the double cheese burst pizza."
+    },
+    {
+      "username": "Captain America",
+      "title": "Pizza",
+      "id": 12,
+      "date": "12-March-2021",
+      "blog": "I love Pizza."
+    },
+    {
+      "username": "Abhishek Dubey",
+      "title": "Paneer Tikka",
+      "id": 5,
+      "date": "10-May-2021",
+      "blog": "I love Paneer Tikka & best starter for Veg."
+    }
+  ]
+}
