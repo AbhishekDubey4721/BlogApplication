@@ -1,25 +1,55 @@
 {
   "blog": [
     {
-      "username": "Captain America",
-      "id": 2,
-      "title": "Pizza",
-      "date": "11-May-2021",
-      "blog": "I love the double cheese burst pizza."
-    },
-    {
-      "username": "Captain America",
-      "title": "Pizza",
-      "id": 12,
-      "date": "12-March-2021",
-      "blog": "I love Pizza."
-    },
-    {
       "username": "Abhishek Dubey",
-      "title": "Paneer Tikka",
-      "id": 5,
+      "title": "Paneer Amritsari Tikka",
+      "id": 1,
       "date": "10-May-2021",
-      "blog": "I love Paneer Tikka & best starter for Veg."
+      "blog": "Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. It is a popular dish that is widely available in India and countries with an Indian diaspora.\n\nWhen paneer tikka is served with a sauce, it is called paneer tikka masala. It is also served as with a wrap, paneer tikka roll, where the paneer tikka is wrapped into an Indian bread and served. A variant of paneer tikka is also made as a kebab.\n\nOver the years, there have been several variations, such as Kashmiri paneer tikka, where the paneer is stuffed with chopped almonds and grilled, a variety of Chinese food, paneer tikka masala chow mein, and dosa stuffed with paneer tikka.\n\nInternational fast food chains in India have also incorporated paneer tikka into their menus, such as Pizza Hut and Domino's which offer a paneer tikka topping on their pizzas,whereas Subway offers a paneer tikka sandwich and McDonald's has a paneer tikka wrap on its menu.ITC's Bingo brand of potato chips has experimented with a paneer tikka flavour of chips. Prior to that, in 2003, Nestle's Maggi experimented with a ready to cook variety of paneer tikka. Other companies also offer spice mixes and ready-to-eat variants of paneer tikka."
+    },
+    {
+      "username": "Harsh Singh",
+      "title": "Chicken Tikka",
+      "id": 2,
+      "date": "11-May-2021",
+      "blog": "Chicken tikka is a chicken dish originating in Mughal Empire the Indian subcontinent; the dish is popular in India, Bangladesh and Pakistan. It is traditionally small pieces of boneless chicken baked using skewers on a brazier called angeethi after marinating in Indian spices and dahi (yogurt)—essentially a boneless version of tandoori chicken. The word tikka (Tike in Turkish, and Tikə in Azerbaijani) is a Persian word, meaning \"bits\" or \"pieces\". It is also a chicken dish served in Punjabi cuisine. The Kashmiri version of the dish, however, is grilled over red-hot coals, and does not always contain boneless pieces. The pieces are brushed with ghee (clarified butter) at intervals to increase its flavour, while being continuously fanned. It is typically eaten with green coriander and tamarind chutney served with onion rings and lemon, or used in preparing a chicken tikka masala.\n\nA chicken tikka sizzler is a dish where chicken tikka is served on a heated plate with onions. The dish is also popular in Afghanistan, though the Afghan variant (like many other Persian, Turkish, and Arab dishes) is less spicy compared to the variants in the Indian subcontinent and uses beef and lamb in addition to chicken."
+    },
+    {
+      "username": "Manjeet Singh",
+      "title": "Chicken tikka masala",
+      "id": 3,
+      "date": "10-May-2021",
+      "blog": "Chicken tikka masala is a dish consisting of roasted marinated chicken chunks (chicken tikka) in spiced curry sauce. The curry is usually creamy and orange-coloured. There are differing theories regarding the geographic origin of the dish, broadly split between those attributing it to cooks from South Asia living in Great Britain, and those that view it as being created on the Indian subcontinent. The dish is offered at restaurants around the world."
+    },
+    {
+      "username": "Shashank Dubey",
+      "title": "Hamburgers",
+      "id": 4,
+      "date": "11-May-2021",
+      "blog": "A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or a \"special sauce\", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.[1]\n\nThe term \"burger\" can also be applied to the meat patty on its own, especially in the United Kingdom, where the term \"patty\" is rarely used, or the term can even refer simply to ground beef. Since the term hamburger usually implies beef, for clarity \"burger\" may be prefixed with the type of meat or meat substitute used, as in beef burger, turkey burger, bison burger, or veggie burger.\n\nHamburgers are sold at fast-food restaurants, diners, and specialty and high-end restaurants. There are many international and regional variations of the hamburger"
+    },
+    {
+      "username": "Sidharth Srivastava",
+      "title": "Veggie Burger",
+      "id": 5,
+      "date": "11-May-2021",
+      "blog": "A veggie burger is a burger patty that does not contain meat. These burgers may be made from ingredients like beans, especially soybeans and tofu, nuts, grains, seeds or fungi such as mushrooms or mycoprotein.\n\nThe patties that are the essence of a veggie burger have existed in various Eurasian cuisines for millennia, including in the form of disc-shaped grilled or fried meatballs or as koftas, a commonplace item in Indian cuisine. These may contain meats or be made of entirely vegetarian ingredients such as legumes or other plant-derived proteins."
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "username": "Abhishek",
+      "email": "abhishekdubey4721@gmail.com",
+      "subject": "Changing my title",
+      "message": "Change title from burger lover to pizza lover."
+    },
+    {
+      "id": 2,
+      "username": "abhishek____dubey",
+      "email": "abhishekdubey.1328@rediffmail.com",
+      "subject": "Change blog12",
+      "message": "asder"
     }
   ]
 }

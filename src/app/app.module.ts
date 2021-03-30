@@ -14,6 +14,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { RouterModule} from '@angular/router';
 import { ContactComponent } from './contact/contact.component';
+
 @NgModule({
   declarations: [
     AppComponent,

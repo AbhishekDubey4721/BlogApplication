@@ -3,6 +3,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 import {Data} from './data'; 
+import {Contact} from './contact';
 @Injectable({
   providedIn: 'root'
 })
@@ -20,6 +21,9 @@ export class IntegrateService {
   }
   create(blog: any): Observable<Data>{
     return this.httpClient.post<Data>("http://localhost:3000/blog/",JSON.stringify(blog), this.httpOptions)
+  }
+  create1(blog: any): Observable<Contact>{
+    return this.httpClient.post<Contact>("http://localhost:3000/contact/",JSON.stringify(blog), this.httpOptions)
   }
 
   find(id: String | number): Observable<Data> {
